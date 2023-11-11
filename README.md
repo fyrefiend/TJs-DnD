@@ -18,7 +18,8 @@
  - We're using the XP system for level advancement.
  - Please attempt to give your character a back story: Why are they adventuring? Where did they learn their class?
  - Personality Traits, Ideals, Flaws, and Bonds are required
-### Cosmology
+
+## Cosmology
  - Ignore the Eberron setting's cosmology. We're using the standard Great Wheel model found in the PHB
  - *If* we ever decide to Spell Jam we are using 2nd E's crystal spheres and phlogiston, **not** the astral sea.
 
