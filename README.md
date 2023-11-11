@@ -1,5 +1,11 @@
 # Basic info on the campaign
 ## Ground rules for characters:
+
+ - Evil characters are discouraged. I may allow them but not if they're going to be murder hobos.
+ - We're using the XP system for level advancement.
+ - Please attempt to give your character a back story: Why are they adventuring? Where did they learn their class?
+ - Personality Traits, Ideals, Flaws, and Bonds are required
+
 ### Races:
  - You may be any race from the books I've shared other than: Simic Hybrid.
  - If you want to be a human variant get with me and we can work together so it's not game breaking.
@@ -14,10 +20,6 @@
  - Same with ammo
  - Don't bother with lifestyle. I'm assuming that during downtime between adventures you have modest but comfortable places to stay. If you want something more then we can work something out.
  - I do allow simple firearms but they are far from perfect. On a Critical miss they have a chance of exploding!
- - Evil characters are discouraged. I may allow them but not if they're going to be murder hobos.
- - We're using the XP system for level advancement.
- - Please attempt to give your character a back story: Why are they adventuring? Where did they learn their class?
- - Personality Traits, Ideals, Flaws, and Bonds are required
 
 ## Cosmology
  - Ignore the Eberron setting's cosmology. We're using the standard Great Wheel model found in the PHB
