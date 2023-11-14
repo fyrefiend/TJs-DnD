@@ -24,4 +24,4 @@
 ## Cosmology
  - Ignore the Eberron setting's cosmology. We're using the standard Great Wheel model found in the PHB.
  - *If* we ever decide to Spell Jam we are using 2nd E's crystal spheres and phlogiston, **not** the astral sea.
-
+ - .
